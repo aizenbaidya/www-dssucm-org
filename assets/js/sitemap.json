@@ -1,0 +1,45 @@
+{
+  "baseUrl": "https://dssucm.github.io",
+  "sitemap": [
+    {
+      "url": "/index.html",
+      "badge": "home",
+      "title": "Home"
+    },
+    {
+      "url": "/pages/about.html",
+      "badge": "page",
+      "title": "About"
+    },
+    {
+      "url": "/pages/blog.html",
+      "badge": "page",
+      "title": "Blog"
+    },
+    {
+      "url": "/pages/events.html",
+      "badge": "event",
+      "title": "Events"
+    },
+    {
+      "url": "/pages/blog/post_one.html",
+      "badge": "blog",
+      "title": "Post One"
+    },
+    {
+      "url": "/pages/blog/post_two.html",
+      "badge": "blog",
+      "title": "Post Two"
+    },
+    {
+      "url": "/pages/events/event_one.html",
+      "badge": "event",
+      "title": "Event One"
+    },
+    {
+      "url": "/pages/events/event_two.html",
+      "badge": "event",
+      "title": "Event Two"
+    }
+  ]
+}
