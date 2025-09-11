@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "date": "2025-02-14",
+            "events": [
+                {
+                    "title": "Valentine's Day",
+                    "description": "Celebrate Valentine's Day",
+                    "startTime": "00:00",
+                    "endTime": "23:59",
+                    "type": "holiday"
+                }
+            ]
+        },
+        {
+            "date": "2025-03-17",
+            "events": [
+                {
+                    "title": "St. Patrick's Day",
+                    "description": "Celebrate St. Patrick's Day",
+                    "startTime": "00:00",
+                    "endTime": "23:59",
+                    "type": "holiday"
+                }
+            ]
+        },
+        {
+            "date": "2025-04-01",
+            "events": [
+                {
+                    "title": "April Fools' Day",
+                    "description": "Annual celebration of pranks and jokes",
+                    "startTime": "00:00",
+                    "endTime": "23:59",
+                    "type": "holiday"
+                }
+            ]
+        },
+        {
+            "date": "2025-04-22",
+            "events": [
+                {
+                    "title": "Earth Day",
+                    "description": "Annual celebration promoting environmental protection",
+                    "startTime": "00:00",
+                    "endTime": "23:59",
+                    "type": "holiday"
+                }
+            ]
+        },
+        {
+            "date": "2025-05-05",
+            "events": [
+                {
+                    "title": "Cinco de Mayo",
+                    "description": "Celebration of Mexican culture and heritage",
+                    "startTime": "00:00",
+                    "endTime": "23:59",
+                    "type": "holiday"
+                }
+            ]
+        }
+    ]
+}
